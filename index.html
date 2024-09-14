@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GorseBusters Survey 2024</title>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css' rel='stylesheet' />
+    <link href='style.css' rel='stylesheet' />
+</head>
+<body>
+
+<div id="map"></div>
+<div id="title">GorseBusters Survey 2024</div>
+<div id="logo">
+    <img src="rogue drones_whitepng.png" alt="Logo">
+</div>
+
+<script src='https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js'></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        fetch('access_token.txt')
+            .then(response => response.text())
+            .then(token => {
+                mapboxgl.accessToken = token.trim(); // Ensure no extra whitespace
+
+                var initialCenter = [170.1989, -43.2223];
+                var map = new mapboxgl.Map({
+                    container: 'map',
+                    style: 'mapbox://styles/mapbox/satellite-streets-v11',
+                    center: initialCenter,
+                    zoom: 8
+                });
+
+                // Add Navigation Controls with the Default Compass
+                map.addControl(new mapboxgl.NavigationControl(), 'top-right');
+
+                // Add Scale Control
+                var scale = new mapboxgl.ScaleControl({
+                    maxWidth: 80,
+                    unit: 'metric'
+                });
+                map.addControl(scale);
+
+                // Add Geolocation Control (Button to find user's location)
+                map.addControl(new mapboxgl.GeolocateControl({
+                    positionOptions: {
+                        enableHighAccuracy: true
+                    },
+                    trackUserLocation: true,
+                    showAccuracyCircle: false
+                }), 'top-right');
+
+                map.on('load', function () {
+                    // Load the GeoJSON data
+                    fetch('Final_GB_Survey_Photos.geojson') // Ensure this file is in the same directory or provide the correct path
+                        .then(response => response.json())
+                        .then(data => {
+                            map.addSource('photos', {
+                                type: 'geojson',
+                                data: data
+                            });
+
+                            // Add a circle layer to represent the gorse bushes
+                            map.addLayer({
+                                'id': 'photos-layer',
+                                'type': 'circle',
+                                'source': 'photos',
+                                'paint': {
+                                    'circle-radius': 8,        // Size of the circle
+                                    'circle-color': '#FFD700', // Yellow color (Gold)
+                                    'circle-stroke-width': 2,  // Outline thickness
+                                    'circle-stroke-color': '#FFFFFF' // Outline color (white)
+                                }
+                            });
+
+                            // Add popups on click
+                            map.on('click', 'photos-layer', function (e) {
+                                const properties = e.features[0].properties;
+                                const coordinates = e.features[0].geometry.coordinates.slice();
+                                const photoUrl = properties.photo;
+
+                                const popupContent = `
+                                    <h3>${properties.filename}</h3>
+                                    <a href="${photoUrl}" target="_blank">
+                                        <img src="${photoUrl}" alt="${properties.filename}" style="width:100%;">
+                                    </a>
+                                    <p>Coordinates: ${coordinates[0].toFixed(6)}, ${coordinates[1].toFixed(6)}</p>
+                                `;
+
+                                new mapboxgl.Popup()
+                                    .setLngLat(coordinates)
+                                    .setHTML(popupContent)
+                                    .addTo(map);
+                            });
+
+                            // Change the cursor to a pointer when the mouse is over the points
+                            map.on('mouseenter', 'photos-layer', function () {
+                                map.getCanvas().style.cursor = 'pointer';
+                            });
+
+                            // Reset the cursor when it leaves the points
+                            map.on('mouseleave', 'photos-layer', function () {
+                                map.getCanvas().style.cursor = '';
+                            });
+
+                            // Manual zoom transition
+                            var currentZoom = 8;
+                            var targetZoom = 14;
+                            var zoomInterval = setInterval(function() {
+                                if (currentZoom < targetZoom) {
+                                    currentZoom += 0.1; // Incremental zoom step
+                                    map.setZoom(currentZoom);
+                                } else {
+                                    clearInterval(zoomInterval); // Stop the interval when the target is reached
+                                }
+                            }, 50); // Delay between zoom steps (in milliseconds)
+                        });
+                });
+            })
+            .catch(error => {
+                console.error('Error fetching access token:', error);
+            });
+    });
+</script>
+
+</body>
+</html>

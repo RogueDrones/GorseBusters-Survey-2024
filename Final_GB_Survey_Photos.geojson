@@ -1,0 +1,1563 @@
+{
+    "type": "FeatureCollection",
+    "name": "GB_Survey_Photos_Drive",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 1 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 1.0,
+                "photo": "https://i.imgur.com/mnRmZ70.jpeg",
+                "filename": "image1",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 23,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2102814,
+                "latitude": -43.21331786
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.21036142544,
+                    -43.2132668034011,
+                    23.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 2 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 2.0,
+                "photo": "https://i.imgur.com/U6EGIW7.jpeg",
+                "filename": "image2",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 22,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2103729,
+                "latitude": -43.21338269
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.210451312988,
+                    -43.2133073236068,
+                    22.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 3 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 3.0,
+                "photo": "https://i.imgur.com/6qsfLkR.jpeg",
+                "filename": "image3",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 19,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2112427,
+                "latitude": -43.21392822
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.211352755118,
+                    -43.2138455581666,
+                    19.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 4 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 4.0,
+                "photo": "https://i.imgur.com/r6tsODE.jpeg",
+                "filename": "image4",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 22,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.211441,
+                "latitude": -43.21401214
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.211531100147,
+                    -43.2139440627055,
+                    22.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 5 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 5.0,
+                "photo": "https://i.imgur.com/ixvp2mJ.jpeg",
+                "filename": "image5",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 22,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2115478,
+                "latitude": -43.21405028
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.211616221614,
+                    -43.2139980050374,
+                    22.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 6 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 6.0,
+                "photo": "https://i.imgur.com/oMnFIrV.jpeg",
+                "filename": "image6",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 20,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2117615,
+                "latitude": -43.21417617
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.211814848441,
+                    -43.2141324035342,
+                    20.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 7 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 7.0,
+                "photo": "https://i.imgur.com/KHlofbD.jpeg",
+                "filename": "image7",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 19,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2119446,
+                "latitude": -43.21427533
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.211997931775,
+                    -43.2142218451445,
+                    19.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 8 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 8.0,
+                "photo": "https://i.imgur.com/Whizlw5.jpeg",
+                "filename": "image8",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 18,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2132721,
+                "latitude": -43.21492767
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.213422203949,
+                    -43.2147672036707,
+                    18.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 9 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 9.0,
+                "photo": "https://i.imgur.com/HpUPa7C.jpeg",
+                "filename": "image9",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 18,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2132721,
+                "latitude": -43.21492767
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.213540632435,
+                    -43.2148061038322,
+                    18.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 10 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 10.0,
+                "photo": "https://i.imgur.com/hzWSeeB.jpeg",
+                "filename": "image10",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 23,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2145081,
+                "latitude": -43.21580122
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.214911713211,
+                    -43.2157149138652,
+                    23.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 11 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 11.0,
+                "photo": "https://i.imgur.com/2Whnc4l.jpeg",
+                "filename": "image11",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 15,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2147522,
+                "latitude": -43.21623992
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.214465297267,
+                    -43.2163225774757,
+                    15.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 12 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 12.0,
+                "photo": "https://i.imgur.com/pRmY9dV.jpeg",
+                "filename": "image12",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 18,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.213089,
+                "latitude": -43.21892928
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.212928843565,
+                    -43.2191966976251,
+                    18.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 13 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 13.0,
+                "photo": "https://i.imgur.com/gl8qab4.jpeg",
+                "filename": "image13",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 20,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2124939,
+                "latitude": -43.22042464
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.212330424218,
+                    -43.2204197768185,
+                    20.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 14 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 14.0,
+                "photo": "https://i.imgur.com/2hSgXJx.jpeg",
+                "filename": "image14",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 18,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2125854,
+                "latitude": -43.2225685
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.212438659842,
+                    -43.2225709309495,
+                    18.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 15 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 15.0,
+                "photo": "https://i.imgur.com/h2958Iy.jpeg",
+                "filename": "image15",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 20,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2131042,
+                "latitude": -43.22365569
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.212937421538,
+                    -43.2236751416909,
+                    20.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 16 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 16.0,
+                "photo": "https://i.imgur.com/1l7VDbY.jpeg",
+                "filename": "image16",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 27,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.214035,
+                "latitude": -43.22495269
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.213821522902,
+                    -43.2249915881104,
+                    27.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 17 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 17.0,
+                "photo": "https://i.imgur.com/1vNTQQO.jpeg",
+                "filename": "image17",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 17,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2123108,
+                "latitude": -43.21870803
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.212354145956,
+                    -43.2186983033633,
+                    17.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 18 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 18.0,
+                "photo": "https://i.imgur.com/yzSttB1.jpeg",
+                "filename": "image18",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 13,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2108459,
+                "latitude": -43.21826169
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.210922672759,
+                    -43.218217934246,
+                    13.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 19 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 19.0,
+                "photo": "https://i.imgur.com/JAllk2a.jpeg",
+                "filename": "image19",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 15,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2085419,
+                "latitude": -43.21727369
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.208575221248,
+                    -43.2175435526994,
+                    15.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 20 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 20.0,
+                "photo": "https://i.imgur.com/4zTZSy1.jpeg",
+                "filename": "image20",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 12,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2077637,
+                "latitude": -43.21725081
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.207837058968,
+                    -43.2175279573524,
+                    12.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 21 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 21.0,
+                "photo": "https://i.imgur.com/1DIsL8p.jpeg",
+                "filename": "image21",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 18,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.206604,
+                "latitude": -43.21815108
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.207031009752,
+                    -43.2183601598039,
+                    18.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 22 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 22.0,
+                "photo": "https://i.imgur.com/6UkMp64.jpeg",
+                "filename": "image22",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 16,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2064667,
+                "latitude": -43.21855161
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.206680171543,
+                    -43.2187169263685,
+                    16.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 23 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 23.0,
+                "photo": "https://i.imgur.com/GmHBCrx.jpeg",
+                "filename": "image23",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 16,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2064667,
+                "latitude": -43.21855161
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.206800268035,
+                    -43.2186439932293,
+                    16.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 24 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 24.0,
+                "photo": "https://i.imgur.com/bNSNbYp.jpeg",
+                "filename": "image24",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 21,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2060089,
+                "latitude": -43.22095869
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.205902136451,
+                    -43.2209489703878,
+                    21.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 25 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 25.0,
+                "photo": "https://i.imgur.com/BqkSenb.jpeg",
+                "filename": "image25",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 19,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2060089,
+                "latitude": -43.22100828
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.205872112328,
+                    -43.2210496049665,
+                    19.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 26 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 26.0,
+                "photo": "https://i.imgur.com/7WU0R1z.jpeg",
+                "filename": "image26",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 17,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2060089,
+                "latitude": -43.2212715
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.205758687862,
+                    -43.2212471899835,
+                    17.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 27 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 27.0,
+                "photo": "https://i.imgur.com/6fZd7lm.jpeg",
+                "filename": "image27",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 17,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2060089,
+                "latitude": -43.22133636
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.205835416177,
+                    -43.2213412231084,
+                    17.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 28 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 28.0,
+                "photo": "https://i.imgur.com/2MDEfBW.jpeg",
+                "filename": "image28",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 18,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2059936,
+                "latitude": -43.22138975
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.206167111601,
+                    -43.2213848880064,
+                    18.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 29 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 29.0,
+                "photo": "https://i.imgur.com/GKQOhZD.jpeg",
+                "filename": "image29",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 17,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2060089,
+                "latitude": -43.22150419
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.206175689573,
+                    -43.2214628675655,
+                    17.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 30 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 30.0,
+                "photo": "https://i.imgur.com/9PWHVm8.jpeg",
+                "filename": "image30",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 17,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2060547,
+                "latitude": -43.22161483
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.206191443228,
+                    -43.2215662135601,
+                    17.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 31 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 31.0,
+                "photo": "https://i.imgur.com/duXI4V4.jpeg",
+                "filename": "image31",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 21,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2061615,
+                "latitude": -43.22204969
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.205998007552,
+                    -43.2220837280191,
+                    21.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 32 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 32.0,
+                "photo": "https://i.imgur.com/9SqrjJY.jpeg",
+                "filename": "image32",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 20,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2066193,
+                "latitude": -43.22289656
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.206452449316,
+                    -43.2229597598797,
+                    20.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 33 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 33.0,
+                "photo": "https://i.imgur.com/kThzl5p.jpeg",
+                "filename": "image33",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 20,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2066193,
+                "latitude": -43.22289656
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.206422425193,
+                    -43.2228698152459,
+                    20.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 34 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 34.0,
+                "photo": "https://i.imgur.com/LUwU72A.jpeg",
+                "filename": "image34",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 19,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2066956,
+                "latitude": -43.22303769
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.206538762912,
+                    -43.2230692965366,
+                    19.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 35 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 35.0,
+                "photo": "https://i.imgur.com/lgc0VE2.jpeg",
+                "filename": "image35",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 22,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2068329,
+                "latitude": -43.22360608
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.206729444687,
+                    -43.2235842051573,
+                    22.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 36 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 36.0,
+                "photo": "https://i.imgur.com/UST3ItT.jpeg",
+                "filename": "image36",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 20,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2067566,
+                "latitude": -43.22449111
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.206616470758,
+                    -43.2245129889648,
+                    20.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 37 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 37.0,
+                "photo": "https://i.imgur.com/YSJPg0j.jpeg",
+                "filename": "image37",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 21,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2075806,
+                "latitude": -43.22511672
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.207420426899,
+                    -43.2251799242347,
+                    21.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 38 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 38.0,
+                "photo": "https://i.imgur.com/yYxmfeV.jpeg",
+                "filename": "image38",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 17,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2081909,
+                "latitude": -43.22564314
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.208087500242,
+                    -43.2256990478822,
+                    17.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 39 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 39.0,
+                "photo": "https://i.imgur.com/3hPIk90.jpeg",
+                "filename": "image39",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 15,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2094116,
+                "latitude": -43.22631072
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.209351562865,
+                    -43.2263958001819,
+                    15.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 40 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 40.0,
+                "photo": "https://i.imgur.com/QVi5HNe.jpeg",
+                "filename": "image40",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 31,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.2123108,
+                "latitude": -43.22613142
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.212170665203,
+                    -43.2264814519309,
+                    31.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 42 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 43.0,
+                "photo": "https://i.imgur.com/vFhlXE9.jpeg",
+                "filename": "image42",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 15,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.1906128,
+                "latitude": -43.22509383
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.191253292405,
+                    -43.2249188119569,
+                    15.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 43 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 44.0,
+                "photo": "https://i.imgur.com/to4Xak3.jpeg",
+                "filename": "image43",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 16,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.190628,
+                "latitude": -43.22532272
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.191428671062,
+                    -43.2252449352912,
+                    16.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 44 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 45.0,
+                "photo": "https://i.imgur.com/g88UCxp.jpeg",
+                "filename": "image44",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 15,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.1906433,
+                "latitude": -43.22554014
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.19093687476,
+                    -43.2258415611551,
+                    15.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 45 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 46.0,
+                "photo": "https://i.imgur.com/QIb5rry.jpeg",
+                "filename": "image45",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 15,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.1905975,
+                "latitude": -43.22626114
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.190690936161,
+                    -43.2263778173498,
+                    15.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 46 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 47.0,
+                "photo": "https://i.imgur.com/lVduDHn.jpeg",
+                "filename": "image46",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 15,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.1893921,
+                "latitude": -43.22760389
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.190246102837,
+                    -43.2280705910449,
+                    15.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 47 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 48.0,
+                "photo": "https://i.imgur.com/KomhNN6.jpeg",
+                "filename": "image47",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 15,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.1893921,
+                "latitude": -43.22760389
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.190166038508,
+                    -43.2282553260161,
+                    15.0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": null,
+                "description": "Image 48 located at coordinates.",
+                "timestamp": null,
+                "begin": null,
+                "end": null,
+                "altitudeMode": null,
+                "tessellate": -1,
+                "extrude": 0,
+                "visibility": -1,
+                "drawOrder": null,
+                "icon": null,
+                "fid": 49.0,
+                "photo": "https://i.imgur.com/IyztT9e.jpeg",
+                "filename": "image48",
+                "directory": "C:\\Users\\HP\\Desktop\\GB_Survey\\Photos",
+                "altitude": 14,
+                "direction": 0,
+                "rotation": 0,
+                "longitude": 170.1886291,
+                "latitude": -43.22882842
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    170.188682515108,
+                    -43.2292270501749,
+                    14.0
+                ]
+            }
+        }
+    ]
+}
